@@ -45,7 +45,7 @@ class ViewController: UIViewController {
 //    print("Count of: \"\(text)\" is: \(count)")
     
 //*****************************************************************
-// MARK: - Section 2: Dlopen & Dlsym w/ Swift
+// MARK: - Section 2: Dlopen & Dlsym w/ C
 //*****************************************************************
     
 ////    TODO: 1. What's the framework responsible for "strcat" C function?
