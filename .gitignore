@@ -1,0 +1,12 @@
+## Build generated
+build/
+DerivedData/
+
+## Various settings
+
+!default.pbxuser
+xcuserdata/
+*.xccheckout
+*.xcscmblueprint
+*.xcscheme
+*.xcbkptlist
