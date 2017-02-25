@@ -73,15 +73,16 @@ class ViewController: UIViewController {
 //    
 //    TODO: 4 What's the symbol name for this swift function?
 //    let privateFunction = dlsym(handle, "TODO")
-//    typealias privateFunctionAlias = @convention(c)(NeatOClass) -> Void
+//    typealias privateFunctionAlias = @convention(c)() -> Void
 //    let doSuperCoolThing = unsafeBitCast(privateFunction, to: privateFunctionAlias.self)
-//    doSuperCoolThing(self.neatoClass)
+//    TODO: 5 Will this work for an Object oriented language?
+//    doSuperCoolThing()
 
 //*****************************************************************
 // MARK: - Section 4: Exploring Private Frameworks
 //*****************************************************************
     
-////    TODO: 5 What's the location of the private frameworks directory on an actual iOS Device?
+////    TODO: 6 What's the location of the private frameworks directory on an actual iOS Device?
 //    let privateFrameworks = try! FileManager.default.contentsOfDirectory(atPath: "TODO")
 //    for framework  in privateFrameworks {
 //      let name = framework.replacingOccurrences(of: ".framework", with: "")

@@ -28,7 +28,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
   var window: UIWindow?
   
  public override class func initialize() {
-  // TODO: 6 Add module responsible for invisible ink view here
+  // TODO: 7 Add module responsible for invisible ink view here
   }
 }
 
